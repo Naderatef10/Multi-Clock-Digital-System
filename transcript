@@ -1,0 +1,10 @@
+# vsim work.SYS_TOP_TB 
+# Start time: 20:37:15 on Oct 07,2022
+# Loading work.SYS_TOP_TB
+# ** Error: (vsim-3033) ./SYS_TOP_TB.v(84): Instantiation of 'SYSTEM_TOP' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SYS_TOP_TB File: ./SYS_TOP_TB.v
+#         Searched libraries:
+#             C:/Users/nader atef/Desktop/Final_system/work
+# Error loading design
+# End time: 20:37:15 on Oct 07,2022, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
